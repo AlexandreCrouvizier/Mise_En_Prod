@@ -42,7 +42,7 @@
         <div id="fin">
             <a href="https://www.estcequonmetenprodaujourdhui.info/" target="blank">idée originale : estcequonmetenprodaujourdhui.info</a>
             <div class="mentions">
-                <p><a href="http://mise-en-prod.mehdydriouech.fr/giphy.html" target="blank"><img src="asset/img/Powered.gif" alt="Giphy"></a></p>
+                <p><a href="https://giphy.com/" target="blank"><img src="asset/img/Powered.gif" alt="Giphy"></a></p>
             </div>
         </div>
         <footer>
